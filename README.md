@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
-![Your Banner Image Here]![748ee146b6f27d9a32cd670dd17c2ebd](https://github.com/user-attachments/assets/1de90449-5a9b-42c1-8e52-50c52173fd93)
+[748ee146b6f27d9a32cd670dd17c2ebd](https://github.com/user-attachments/assets/1de90449-5a9b-42c1-8e52-50c52173fd93)
+![748ee146b6f27d9a32cd670dd17c2ebd](https://github.com/user-attachments/assets/0881bdbb-c16d-4094-9949-61fc0293c77c)
 
 ## About Me
 
