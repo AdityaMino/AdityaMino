@@ -52,48 +52,51 @@ Here are some of the tools and technologies I have experience with:
 
 ## 📚 Projects
 
-- **MANTLE © - System Telemetry Tool**  <!-- Intel --><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Intel-logo.svg" alt="Intel" height="100" />
+- **MANTLE © - System Telemetry Tool**  
   
 MANTLE © is a comprehensive Power Management tool designed to monitor and display various system metrics and manage telemetry data in real-time. It provides detailed insights into the overall system statistics and Power Consumption of various components in system. It can capture your plots, switch mode , and much more.
   
 [Repository Link](https://github.com/AdityaMino/Mantle_Intel-Unnati-2024)
 
-- **Integratined Circuit Design in eSim**  <!-- IIT Bombay --><img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/IIT_Bombay_Logo.svg/1200px-IIT_Bombay_Logo.svg.png" alt="IIT Bombay" height="100" /><!-- eSim --><img src="https://esim.fossee.in/static/esim/images/eSim-logo.png" alt="eSim" height="100" />
+- **Integratined Circuit Design in eSim** 
 
 Integrating Analog and Digital Subcircuits in **eSim 2.3** & Simulation of their Application Circuits. This includes Monolithic Timers, Modulators, SRAM Cell IC's by Texas Instruments, NXP Semiconductors, etc. By successfully integrating these models into the library, the project enhances the capabilities of the eSim tool, making it easier for users to incorporate these circuits into their designs, thereby improving the overall efficiency of the design process.
 
 [Repository Link](https://github.com/AdityaMino/eSim)
 
-- **32 bit Processor Implementation using Verilog HDL** <!-- NIELIT --><img src="https://nielit.gov.in/sites/default/files/headquarter/logo.png" alt="NIELIT" height="100" />
+- **32 bit Processor Implementation using Verilog HDL** 
 
 This project involves designing and implementing a **32-bit processor using Verilog Hardware Description Language (HDL)**. The processor is created as part of this NIELIT Internship, as an effort to understand the basics of computer architecture and digital design. The design takes a modular approach, including essential components such as the Arithmetic Logic Unit (ALU), Control Unit, Registers, and Memory Interface and others.
 
 [Repository Link](https://github.com/AdityaMino/32bitMIPSProcessor)
 
-## 🌱 What I'm Learning
-
-I'm currently expanding my knowledge in:
-
-- **Advanced VLSI Design Techniques**
-- **Power Converter Design with Closed-Loop Control**
-- **Machine Learning in Hardware Design**
-
 ## 💡 My Experience
 
-- **FOSSEE Summer Fellowship**  
-  Integrated subcircuits in eSim during a 2-month fellowship under the FOSSEE organization.  
-  [More Info](your-link)
+- **FOSSEE Summer Fellowship, IIT Bombay **  
+Integrated subcircuits in eSim during a 2-month fellowship under the FOSSEE organization.  
 
-- **MIPS 32 Processor Design**  
-  Developed and verified MIPS 32 processors using Verilog on **EDA Playground** and **Vivado**.
+- **MANTLE © - System Telemetry Tool, Intel**  
+Implementing a Power Manager Telemetry, which provides essential data including Power Consumption and Usage statistics of the CPU, SSD, RAM, NIC etc. using Python and Docker in Linux
+
+- **MIPS 32 Bit Processor Design, NIELIT**  
+Developed and verified MIPS 32 processors using Verilog on **EDA Playground** and **Vivado**.
+
+- **Smart Walking Cane Project**
+The project involved an Ultrasound sensor and Arduino based walking cane,which aids specially abled people to navigate their surroundings, with sound and sensory instructions.
+
+- **Bidirectional Visitor Counter Project**
+The project involved an 8051 Microcontroller, interfaced with 2 Infrared Sensors, to determine the number of visitors entering or exiting the room and display that information on a 16x2 LCD display.
+
+- **DC – DC Buck Converter**
+In this project, we implemented a Buck Converter Circuit using Arduino and N-Channel Power MOSFET (540N) with a maximum current capacity of 33 A. We are going to step down 12V DC to around 5.5-6V. Digital control design is done with use of Arduino Uno microcontroller. 
 
 <!-- You can add certificates, awards, or links to publications here -->
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [Your GitHub](https://github.com/your-username)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/aditya-minocha-154158267)
+- Email: [your-email@example.com](mailto:adityaminoch10@gmail.com)
+- GitHub: [Your GitHub](https://github.com/AdityaMino)
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on exciting projects!
 
