@@ -12,7 +12,7 @@ Greetings ! I'm Aditya Minocha, a Digital Electronics Engineer with a keen inter
 - **Semiconductor Device Physics**
 - **VLSI Layout & Design**
   
-*It's hardware that makes a machine fast. It's software that makes a fast machine slow.”- Craig Bruce.* This quote eloquently captures the need for avid hardware engineers to breach computing limits, everyday. I have a strong belief and a passionate interest in Electronics Engineering, hence I plan to grow my technical prowess in this field.
+*"It's hardware that makes a machine fast. It's software that makes a fast machine slow.”- Craig Bruce.* This quote eloquently captures the need for avid hardware engineers to breach computing limits, everyday. I have a strong belief and a passionate interest in Electronics Engineering, hence I plan to grow my technical prowess in this field.
 
 
 ## Technologies & Tools 🔧
@@ -51,20 +51,6 @@ Here are some of the tools and technologies I have experience with:
 
 ## 📚 Projects 
 
-<p align="center">
- <!-- Intel -->
-  <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" />
-  
-  <!-- IIT Bombay -->
-  <img src="https://img.shields.io/badge/IIT%20Bombay-002C77?style=for-the-badge&logo=iit-bombay&logoColor=white" alt="IIT Bombay" height="50" />
-  
-  <!-- eSim -->
-  <img src="https://img.shields.io/badge/eSim-31A8E0?style=for-the-badge&logoColor=white" alt="eSim" height="50" />
-  
-  <!-- NIELIT -->
-  <img src="https://img.shields.io/badge/NIELIT-005DAA?style=for-the-badge&logo=nielit&logoColor=white" alt="NIELIT" height="50" />
-</p>
-
 - **MANTLE © - System Telemetry Tool**  
   
 **MANTLE ©** is a comprehensive Power Management tool designed to monitor and display various system metrics and manage telemetry data in real-time. It provides detailed insights into the overall system statistics and Power Consumption of various components in system. It can capture your plots, switch mode , and much more.
@@ -82,6 +68,20 @@ Integrating Analog and Digital Subcircuits in **eSim 2.3** & Simulation of their
 This project involves designing and implementing a **32-bit processor using Verilog Hardware Description Language (HDL)**. The processor is created as part of this NIELIT Internship, as an effort to understand the basics of computer architecture and digital design. The design takes a modular approach, including essential components such as the Arithmetic Logic Unit (ALU), Control Unit, Registers, and Memory Interface and others.
 
 [Repository Link](https://github.com/AdityaMino/32bitMIPSProcessor)
+
+<p align="center">
+ <!-- Intel -->
+  <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" />
+  
+  <!-- IIT Bombay -->
+  <img src="https://img.shields.io/badge/IIT%20Bombay-002C77?style=for-the-badge&logo=iit-bombay&logoColor=white" alt="IIT Bombay" height="50" />
+  
+  <!-- eSim -->
+  <img src="https://img.shields.io/badge/eSim-31A8E0?style=for-the-badge&logoColor=white" alt="eSim" height="50" />
+  
+  <!-- NIELIT -->
+  <img src="https://img.shields.io/badge/NIELIT-005DAA?style=for-the-badge&logo=nielit&logoColor=white" alt="NIELIT" height="50" />
+</p>
 
 ## My Experiences 💡 
 
@@ -113,5 +113,19 @@ In this project, we implemented a Buck Converter Circuit using Arduino and N-Cha
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on exciting projects!
 
-<!-- Optionally, add a footer image or logo -->
-![Footer Image](your-image-link)
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/your-github-profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="50" />
+  </a>
+</p>
