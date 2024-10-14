@@ -107,7 +107,7 @@ In this project, we implemented a Buck Converter Circuit using Arduino and N-Cha
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Aditya Minocha](www.linkedin.com/in/aditya-minocha-154158267)
+- LinkedIn: [Aditya Minocha](https://www.linkedin.com/in/aditya-minocha-154158267/)
 - Email: [adityaminocha10@gmail.com](mailto:adityaminocha10@gmail.com)
 - GitHub: [AdityaMino](https://github.com/AdityaMino)
 
@@ -115,17 +115,21 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-minocha-154158267/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" />
   </a>
 
+
+
   <!-- Gmail -->
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:adityaminocha10@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" />
   </a>
 
+
+
   <!-- GitHub -->
-  <a href="https://github.com/your-github-profile" target="_blank">
+  <a href="https://github.com/AdityaMino" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="50" />
   </a>
 </p>
