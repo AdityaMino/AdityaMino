@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Your Banner Image Here](https://www.google.com/imgres?q=Silicon%20Die%20HD%20Image&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F74%2F8e%2Fe1%2F748ee146b6f27d9a32cd670dd17c2ebd.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F74379831353483341%2F&docid=PkUo9FczxvSGdM&tbnid=HN28XTghqeIwQM&vet=12ahUKEwj1id_Ato6JAxW73TgGHeRJA-8QM3oECBYQAA..i&w=2560&h=1600&hcb=2&ved=2ahUKEwj1id_Ato6JAxW73TgGHeRJA-8QM3oECBYQAA) <!-- Replace with a banner image URL -->
+![Your Banner Image Here](https://www.google.com/imgres?q=Silicon%20Die%20HD%20Image&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F74%2F8e%2Fe1%2F748ee146b6f27d9a32cd670dd17c2ebd.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F74379831353483341%2F&docid=PkUo9FczxvSGdM&tbnid=HN28XTghqeIwQM&vet=12ahUKEwj1id_Ato6JAxW73TgGHeRJA-8QM3oECBYQAA..i&w=2560&h=1600&hcb=2&ved=2ahUKEwj1id_Ato6JAxW73TgGHeRJA-8QM3oECBYQAA](https://www.pinterest.com/pin/699817229588409983/)) <!-- Replace with a banner image URL -->
 
 ## About Me
 
