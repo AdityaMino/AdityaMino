@@ -70,20 +70,6 @@ This project involves designing and implementing a **32-bit processor using Veri
 
 [Repository Link](https://github.com/AdityaMino/32bitMIPSProcessor)
 
-<p align="center">
-  <!-- Intel -->
-  [![Intel](https://img.shields.io/badge/Intel-%230071C5.svg?style=flat&logo=intel&logoColor=white)](https://www.intel.com)
-
-  <!-- IIT Bombay -->
-  [![IIT Bombay](https://img.shields.io/badge/IIT%20Bombay-%23FF7F00.svg?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABdCAYAAAB2u2bKAAAAWElEQVRIDbXBAQEAAAABIP1/v8R1CDxQQBGRgLkF1ALbgAcK2g4/AAAAAElFTkSuQmCC)](https://www.iitb.ac.in)
-
-  <!-- eSim -->
-  [![eSim](https://img.shields.io/badge/eSim-%2331A8E0.svg?style=flat&logoColor=white)](https://esim.fossee.in)
-
-  <!-- NIELIT -->
-  [![NIELIT](https://img.shields.io/badge/NIELIT-%23004D00.svg?style=flat&logo=nielit&logoColor=white)](https://nielit.gov.in)
-</p>
-
 ## My Experiences 💡 
 ![image](https://github.com/user-attachments/assets/8b65c5b7-e733-4609-b04a-1ceb20f0b1e1)
 
