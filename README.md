@@ -84,7 +84,7 @@ This project involves designing and implementing a **32-bit processor using Veri
   
   <!-- eSim -->
   <a href="https://esim.fossee.in" target="_blank">
-    <img src="https://img.shields.io/badge/eSim-31A8E0?style=for-the-badge&logoColor=white" alt="eSim" height="50" style="margin-right: 30px;" />
+    <img src="https://static.fossee.in/esim/logos/eSim_logo.svg" alt="eSim" height="50" style="margin-right: 30px;" />
   </a>
   
   <!-- NIELIT -->
@@ -95,22 +95,22 @@ This project involves designing and implementing a **32-bit processor using Veri
 
 ## My Experiences 💡 
 
-- **FOSSEE Summer Fellowship, IIT Bombay**  
+- **FOSSEE Summer Fellowship, IIT Bombay** - 
 Integrated subcircuits in eSim during a 2-month fellowship under the FOSSEE organization.  
 
-- **MANTLE © - System Telemetry Tool, Intel**  
+- **MANTLE © - System Telemetry Tool, Intel** -
 Implementing a Power Manager Telemetry, which provides essential data including Power Consumption and Usage statistics of the CPU, SSD, RAM, NIC etc. using Python and Docker in Linux
 
-- **MIPS 32 Bit Processor Design, NIELIT**  
+- **MIPS 32 Bit Processor Design, NIELIT**- 
 Developed and verified MIPS 32 processors using Verilog on **EDA Playground** and **Vivado**.
 
-- **Smart Walking Cane Project**
+- **Smart Walking Cane Project** -
 The project involved an Ultrasound sensor and Arduino based walking cane,which aids specially abled people to navigate their surroundings, with sound and sensory instructions.
 
-- **Bidirectional Visitor Counter Project**
+- **Bidirectional Visitor Counter Project** -
 The project involved an 8051 Microcontroller, interfaced with 2 Infrared Sensors, to determine the number of visitors entering or exiting the room and display that information on a 16x2 LCD display.
 
-- **DC – DC Buck Converter**
+- **DC – DC Buck Converter** -
 In this project, we implemented a Buck Converter Circuit using Arduino and N-Channel Power MOSFET (540N) with a maximum current capacity of 33 A. We are going to step down 12V DC to around 5.5-6V. Digital control design is done with use of Arduino Uno microcontroller. 
 
 <!-- You can add certificates, awards, or links to publications here -->
@@ -125,7 +125,7 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 
 <p align="right'>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aditya-minocha-154158267/" target="_blank">
+  <a href= https://www.linkedin.com/in/aditya-minocha-154158267 target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="margin-right: 80px;" />
   </a>
 
