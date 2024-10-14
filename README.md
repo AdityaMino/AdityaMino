@@ -45,9 +45,6 @@ Here are some of the tools and technologies I have experience with:
   
   <!-- LTSpice -->
   <img src="https://img.shields.io/badge/LTSpice-FC7303?style=for-the-badge&logo=analog-devices&logoColor=white" alt="LTSpice" height="50" />
-  
-  <!-- Magic VLSI -->
-  <img src="https://img.shields.io/badge/Magic-Violet?style=for-the-badge&logoColor=white" alt="Magic VLSI" height="50" />
 
   <a href="https://www.intel.com" target="_blank">
     <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" style="margin-right: 30px;" />
