@@ -76,22 +76,19 @@ This project involves designing and implementing a **32-bit processor using Veri
   <a href="https://www.intel.com" target="_blank">
     <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" style="margin-right: 30px;" />
   </a>
+
+    <!-- NIELIT -->
+  <a href="https://nielit.gov.in" target="_blank">
+    <img src="https://img.shields.io/badge/NIELIT-004D00?style=for-the-badge&logo=nielit&logoColor=white" alt="NIELIT" height="50" />
+  </a>
+
   
   <!-- IIT Bombay (Official Logo) -->
   <a href="https://www.iitb.ac.in" target="_blank">
     <img src="https://static.wikia.nocookie.net/logopedia/images/d/d0/IIT_Bombay_color_logo.png/revision/latest?cb=20200330112629" alt="IIT Bombay" height="50" style="margin-right: 30px;" />
   </a>
-  
-  <!-- eSim -->
-  <a href="https://esim.fossee.in" target="_blank">
-    <img src="https://static.fossee.in/esim/logos/eSim_logo.svg" alt="eSim" height="50" style="margin-right: 30px;" />
-  </a>
-  
-  <!-- NIELIT -->
-  <a href="https://nielit.gov.in" target="_blank">
-    <img src="https://img.shields.io/badge/NIELIT-004D00?style=for-the-badge&logo=nielit&logoColor=white" alt="NIELIT" height="50" />
-  </a>
-</p>
+</p>  
+
 
 ## My Experiences 💡 
 
