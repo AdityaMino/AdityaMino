@@ -1,9 +1,9 @@
 
 
-![Aditya Minocha ](https://github.com/user-attachments/assets/d781f69b-917b-433a-989f-e6e89a5e8d96)
+![Aditya Minocha](https://github.com/user-attachments/assets/52d8ec29-ab55-4e69-90e8-120a054c6186)
 
 
-## Introduction 
+## Introduction 📱
 
 Greetings ! I'm Aditya Minocha, a Digital Electronics Engineer with a keen interest in **Semiconductor and VLSI Technology**. My areas of expertise include:
 
@@ -15,9 +15,7 @@ Greetings ! I'm Aditya Minocha, a Digital Electronics Engineer with a keen inter
 *It's hardware that makes a machine fast. It's software that makes a fast machine slow.”- Craig Bruce.* This quote eloquently captures the need for avid hardware engineers to breach computing limits, everyday. I have a strong belief and a passionate interest in Electronics Engineering, hence I plan to grow my technical prowess in this field.
 
 
-## 🔧 Technologies & Tools
-
-
+## Technologies & Tools 🔧
   
 Here are some of the tools and technologies I have experience with:
 
@@ -54,17 +52,17 @@ Here are some of the tools and technologies I have experience with:
 ## 📚 Projects 
 
 <p align="center">
-  <!-- Intel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Intel-logo.svg" alt="Intel" height="100" />
+ <!-- Intel -->
+  <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" />
   
   <!-- IIT Bombay -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/IIT_Bombay_Logo.svg/1200px-IIT_Bombay_Logo.svg.png" alt="IIT Bombay" height="100" />
+  <img src="https://img.shields.io/badge/IIT%20Bombay-002C77?style=for-the-badge&logo=iit-bombay&logoColor=white" alt="IIT Bombay" height="50" />
   
   <!-- eSim -->
-  <img src="https://esim.fossee.in/static/esim/images/eSim-logo.png" alt="eSim" height="100" />
+  <img src="https://img.shields.io/badge/eSim-31A8E0?style=for-the-badge&logoColor=white" alt="eSim" height="50" />
   
   <!-- NIELIT -->
-  <img src="https://nielit.gov.in/sites/default/files/headquarter/logo.png" alt="NIELIT" height="100" />
+  <img src="https://img.shields.io/badge/NIELIT-005DAA?style=for-the-badge&logo=nielit&logoColor=white" alt="NIELIT" height="50" />
 </p>
 
 - **MANTLE © - System Telemetry Tool**  
@@ -85,7 +83,7 @@ This project involves designing and implementing a **32-bit processor using Veri
 
 [Repository Link](https://github.com/AdityaMino/32bitMIPSProcessor)
 
-## 💡 My Experience
+## My Experiences 💡 
 
 - **FOSSEE Summer Fellowship, IIT Bombay**  
 Integrated subcircuits in eSim during a 2-month fellowship under the FOSSEE organization.  
