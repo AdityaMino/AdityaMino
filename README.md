@@ -1,11 +1,11 @@
 # Welcome to My GitHub Profile! 👋
 
-[748ee146b6f27d9a32cd670dd17c2ebd](https://github.com/user-attachments/assets/1de90449-5a9b-42c1-8e52-50c52173fd93)
-![748ee146b6f27d9a32cd670dd17c2ebd](https://github.com/user-attachments/assets/0881bdbb-c16d-4094-9949-61fc0293c77c)
+![2](https://github.com/user-attachments/assets/9327d847-668b-4ff1-aa89-78f3235a2471)
+
 
 ## About Me
 
-Hi! I'm Aditya Minocha. I'm a passionate engineer/developer with a keen interest in **[Your Interests]**. My areas of expertise include:
+Greetings ! I'm Aditya Minocha, a Digital Electronics Engineer with a keen interest in **Semiconductor and VLSI Technology**. My areas of expertise include:
 
 - **Digital Electronics and VLSI Design**
 - **System Telemetry and Power Management Applications**
