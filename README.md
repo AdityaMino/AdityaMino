@@ -28,9 +28,10 @@ Here are some of the tools and technologies I have experience with:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50" />
   <img src="https://img.shields.io/badge/Verilog-76B900?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" height="50" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" height="50" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" height="50" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="50" />
-  <img src="https://img.shields.io/badge/Simulink-FF5500?style=for-the-badge&logo=simulink&logoColor=white" alt="Simulink" height="50" />
+  <img src="https://img.shields.io/badge/Keil%20Microvision-009A97?style=for-the-badge&logo=arm&logoColor=white" alt="Keil Microvision" height="50" />
+  <img src="https://img.shields.io/badge/Proteus-31A8E0?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus" height="50" />
+  <img src="https://img.shields.io/badge/Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" height="50" />
+  <img src="https://img.shields.io/badge/LTSpice-FC7303?style=for-the-badge&logo=analog-devices&logoColor=white" alt="LTSpice" height="50" />
 </p>
 
 ## 📚 Current Projects
