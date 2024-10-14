@@ -50,6 +50,7 @@ Here are some of the tools and technologies I have experience with:
   <img src="https://img.shields.io/badge/Magic-Violet?style=for-the-badge&logoColor=white" alt="Magic VLSI" height="50" />
 
 ## 📚 Projects 
+![image](https://github.com/user-attachments/assets/8b65c5b7-e733-4609-b04a-1ceb20f0b1e1)
 
 - **MANTLE © - System Telemetry Tool**  
   
@@ -70,19 +71,26 @@ This project involves designing and implementing a **32-bit processor using Veri
 [Repository Link](https://github.com/AdityaMino/32bitMIPSProcessor)
 
 <p align="center">
- <!-- Intel -->
-  <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" />
+  <!-- Intel -->
+  <a href="https://www.intel.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Intel-logo.svg" alt="Intel" height="50" style="margin-right: 30px; background-color: #0071C5; padding: 5px; border-radius: 5px;" />
+  </a>
   
   <!-- IIT Bombay -->
-  <img src="https://img.shields.io/badge/IIT%20Bombay-002C77?style=for-the-badge&logo=iit-bombay&logoColor=white" alt="IIT Bombay" height="50" />
+  <a href="https://www.iitb.ac.in" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d4/IIT_Bombay_Logo.svg" alt="IIT Bombay" height="50" style="margin-right: 30px; background-color: #002C77; padding: 5px; border-radius: 5px;" />
+  </a>
   
   <!-- eSim -->
-  <img src="https://img.shields.io/badge/eSim-31A8E0?style=for-the-badge&logoColor=white" alt="eSim" height="50" />
+  <a href="https://esim.fossee.in" target="_blank">
+    <img src="https://esim.fossee.in/static/esim/images/eSim-logo.png" alt="eSim" height="50" style="margin-right: 30px; background-color: #31A8E0; padding: 5px; border-radius: 5px;" />
+  </a>
   
   <!-- NIELIT -->
-  <img src="https://img.shields.io/badge/NIELIT-005DAA?style=for-the-badge&logo=nielit&logoColor=white" alt="NIELIT" height="50" />
+  <a href="https://nielit.gov.in" target="_blank">
+    <img src="https://nielit.gov.in/sites/default/files/headquarter/logo.png" alt="NIELIT" height="50" style="margin-right: 30px; background-color: #005DAA; padding: 5px; border-radius: 5px;" />
+  </a>
 </p>
-
 ## My Experiences 💡 
 
 - **FOSSEE Summer Fellowship, IIT Bombay**  
@@ -116,14 +124,14 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aditya-minocha-154158267/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" style="margin-right: 30px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" style="margin-right: 80px;" />
   </a>
 
 
 
   <!-- Gmail -->
   <a href="mailto:adityaminocha10@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" style="margin-right: 30px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" style="margin-right: 80px;" />
   </a>
 
 
