@@ -58,7 +58,7 @@ Here are some of the tools and technologies I have experience with:
   
 [Repository Link](https://github.com/AdityaMino/Mantle_Intel-Unnati-2024)
 
-- **Integratined Circuit Design in eSim** 
+- **Integrated Circuit Design in eSim** 
 
 Integrating Analog and Digital Subcircuits in **eSim 2.3** & Simulation of their Application Circuits. This includes Monolithic Timers, Modulators, SRAM Cell IC's by Texas Instruments, NXP Semiconductors, etc. By successfully integrating these models into the library, the project enhances the capabilities of the eSim tool, making it easier for users to incorporate these circuits into their designs, thereby improving the overall efficiency of the design process.
 
@@ -77,13 +77,10 @@ This project involves designing and implementing a **32-bit processor using Veri
     <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" style="margin-right: 30px;" />
   </a>
 
-    <!-- NIELIT -->
   <a href="https://nielit.gov.in" target="_blank">
     <img src="https://img.shields.io/badge/NIELIT-004D00?style=for-the-badge&logo=nielit&logoColor=white" alt="NIELIT" height="50" />
   </a>
 
-  
-  <!-- IIT Bombay (Official Logo) -->
   <a href="https://www.iitb.ac.in" target="_blank">
     <img src="https://static.wikia.nocookie.net/logopedia/images/d/d0/IIT_Bombay_color_logo.png/revision/latest?cb=20200330112629" alt="IIT Bombay" height="50" style="margin-right: 30px;" />
   </a>
@@ -120,10 +117,10 @@ In this project, we implemented a Buck Converter Circuit using Arduino and N-Cha
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on exciting projects!
 
-<p align="right'>
+<p align="center">
   <!-- LinkedIn -->
-  <a href= https://www.linkedin.com/in/aditya-minocha-154158267 target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="margin-right: 80px;" />
+  <a href="https://www.linkedin.com/in/aditya-minocha-154158267/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" />
   </a>
 
 
