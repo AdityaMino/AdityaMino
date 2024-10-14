@@ -49,8 +49,11 @@ Here are some of the tools and technologies I have experience with:
   <!-- Magic VLSI -->
   <img src="https://img.shields.io/badge/Magic-Violet?style=for-the-badge&logoColor=white" alt="Magic VLSI" height="50" />
 
+  <a href="https://www.intel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" style="margin-right: 30px;" />
+  </a>
+
 ## 📚 Projects 
-![image](https://github.com/user-attachments/assets/8b65c5b7-e733-4609-b04a-1ceb20f0b1e1)
 
 - **MANTLE © - System Telemetry Tool**  
   
@@ -71,23 +74,8 @@ This project involves designing and implementing a **32-bit processor using Veri
 [Repository Link](https://github.com/AdityaMino/32bitMIPSProcessor)
 
 
-<<p align="center">
-  <!-- Intel -->
-  <a href="https://www.intel.com" target="_blank">
-    <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" style="margin-right: 30px;" />
-  </a>
-
-  <a href="https://nielit.gov.in" target="_blank">
-    <img src="https://img.shields.io/badge/NIELIT-004D00?style=for-the-badge&logo=nielit&logoColor=white" alt="NIELIT" height="50" />
-  </a>
-
-  <a href="https://www.iitb.ac.in" target="_blank">
-    <img src="https://static.wikia.nocookie.net/logopedia/images/d/d0/IIT_Bombay_color_logo.png/revision/latest?cb=20200330112629" alt="IIT Bombay" height="50" style="margin-right: 30px;" />
-  </a>
-</p>  
-
-
 ## My Experiences 💡 
+![image](https://github.com/user-attachments/assets/8b65c5b7-e733-4609-b04a-1ceb20f0b1e1)
 
 - **FOSSEE Summer Fellowship, IIT Bombay** - 
 Integrated subcircuits in eSim during a 2-month fellowship under the FOSSEE organization.  
