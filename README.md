@@ -1,34 +1,37 @@
-# Welcome to My GitHub Profile! 👋
-
-![2](https://github.com/user-attachments/assets/9327d847-668b-4ff1-aa89-78f3235a2471)
 
 
-## About Me
+![Aditya Minocha ](https://github.com/user-attachments/assets/d781f69b-917b-433a-989f-e6e89a5e8d96)
+
+
 
 Greetings ! I'm Aditya Minocha, a Digital Electronics Engineer with a keen interest in **Semiconductor and VLSI Technology**. My areas of expertise include:
 
-- **Digital Electronics and VLSI Design**
-- **System Telemetry and Power Management Applications**
-- **Data Analytics in the CPU/GPU space**
-- **Circuit Design and Simulations**
-- **MATLAB/Simulink for Power Electronics Control**
+- **RTL Design**
+- **Analog & Digital Circuit Design**
+- **Semiconductor Device Physics**
+- **VLSI Layout & Design**
   
-I have experience working on various exciting projects ranging from **MIPS 32 Processor Design** to **system monitoring tools in Python**. I'm always eager to learn new technologies and improve my skills.
+*It's hardware that makes a machine fast. It's software that makes a fast machine slow.”- Craig Bruce.* This quote eloquently captures the need for avid hardware engineers to breach computing limits, everyday. I have a strong belief and a passionate interest in Electronics Engineering, hence I plan to grow my technical prowess in this field.
 
-<!-- Optionally, you can add a photo of yourself here -->
-![Your Profile Picture](your-image-link)
 
 ## 🔧 Technologies & Tools
 
-Here are some of the tools and technologies I have worked with:
+Here are some of the tools and technologies I have experience with:
 
-- **Programming Languages**: Python, Verilog, SQL, MATLAB
-- **Libraries/Frameworks**: tkinter, matplotlib, psutil, Simulink
-- **EDA Tools**: eSim, Vivado, EDA Playground
-- **Data Analytics**: JupyterLab, Pandas, Matplotlib
+- **Programming Languages**: Python, Verilog, SQL, MATLAB, C
+- **EDA Tools**: eSim, Vivado, EDA Playground, Magic, LT Spice
+- **Software Tools**: Proteus, Arduino IDE, LabVIEW, Keil Microvision
 - **Operating Systems**: Linux (Ubuntu), Windows
 
-<!-- Add logos or icons for technologies you've worked with if you want -->
+<p align="center">
+  <!-- Add your logos here -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50" />
+  <img src="https://img.shields.io/badge/Verilog-76B900?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" height="50" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" height="50" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" height="50" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="50" />
+  <img src="https://img.shields.io/badge/Simulink-FF5500?style=for-the-badge&logo=simulink&logoColor=white" alt="Simulink" height="50" />
+</p>
 
 ## 📚 Current Projects
 
