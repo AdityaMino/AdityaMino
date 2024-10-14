@@ -70,10 +70,12 @@ This project involves designing and implementing a **32-bit processor using Veri
 
 [Repository Link](https://github.com/AdityaMino/32bitMIPSProcessor)
 
+## Institutions & Tools
+
 <p align="center">
   <!-- Intel -->
   <a href="https://www.intel.com" target="_blank">
-    <img src="https://en.m.wikipedia.org/wiki/File:Intel_logo_%282006-2020%29.svg" alt="Intel" height="50" style="margin-right: 30px; background-color: #0071C5; padding: 5px; border-radius: 5px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Intel-logo.svg" alt="Intel" height="50" style="margin-right: 30px; background-color: #0071C5; padding: 5px; border-radius: 5px;" />
   </a>
   
   <!-- IIT Bombay -->
@@ -91,6 +93,7 @@ This project involves designing and implementing a **32-bit processor using Veri
     <img src="https://nielit.gov.in/sites/default/files/headquarter/logo.png" alt="NIELIT" height="50" style="margin-right: 30px; background-color: #005DAA; padding: 5px; border-radius: 5px;" />
   </a>
 </p>
+
 ## My Experiences 💡 
 
 - **FOSSEE Summer Fellowship, IIT Bombay**  
