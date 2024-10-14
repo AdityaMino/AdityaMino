@@ -116,14 +116,14 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aditya-minocha-154158267/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" style="margin-right: 30px;" />
   </a>
 
 
 
   <!-- Gmail -->
   <a href="mailto:adityaminocha10@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" style="margin-right: 30px;" />
   </a>
 
 
