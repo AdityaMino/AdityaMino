@@ -17,6 +17,15 @@ Greetings ! I'm Aditya Minocha, a Digital Electronics Engineer with a keen inter
 
 ## 🔧 Technologies & Tools
 
+
+  
+Here are some of the tools and technologies I have experience with:
+
+- **Programming Languages**: Python, Verilog, SQL, MATLAB, C
+- **EDA Tools**: eSim, Vivado, EDA Playground, Magic, LT Spice
+- **Software Tools**: Proteus, Arduino IDE, LabVIEW, Keil Microvision
+- **Operating Systems**: Linux (Ubuntu), Windows
+
 <p align="center">
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50" />
@@ -41,20 +50,26 @@ Greetings ! I'm Aditya Minocha, a Digital Electronics Engineer with a keen inter
   
   <!-- Magic VLSI -->
   <img src="https://img.shields.io/badge/Magic-Violet?style=for-the-badge&logoColor=white" alt="Magic VLSI" height="50" />
+
+## 📚 Projects 
+
+<p align="center">
+  <!-- Intel -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Intel-logo.svg" alt="Intel" height="100" />
   
-Here are some of the tools and technologies I have experience with:
-
-- **Programming Languages**: Python, Verilog, SQL, MATLAB, C
-- **EDA Tools**: eSim, Vivado, EDA Playground, Magic, LT Spice
-- **Software Tools**: Proteus, Arduino IDE, LabVIEW, Keil Microvision
-- **Operating Systems**: Linux (Ubuntu), Windows
-
-
-## 📚 Projects
+  <!-- IIT Bombay -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/IIT_Bombay_Logo.svg/1200px-IIT_Bombay_Logo.svg.png" alt="IIT Bombay" height="100" />
+  
+  <!-- eSim -->
+  <img src="https://esim.fossee.in/static/esim/images/eSim-logo.png" alt="eSim" height="100" />
+  
+  <!-- NIELIT -->
+  <img src="https://nielit.gov.in/sites/default/files/headquarter/logo.png" alt="NIELIT" height="100" />
+</p>
 
 - **MANTLE © - System Telemetry Tool**  
   
-MANTLE © is a comprehensive Power Management tool designed to monitor and display various system metrics and manage telemetry data in real-time. It provides detailed insights into the overall system statistics and Power Consumption of various components in system. It can capture your plots, switch mode , and much more.
+**MANTLE ©** is a comprehensive Power Management tool designed to monitor and display various system metrics and manage telemetry data in real-time. It provides detailed insights into the overall system statistics and Power Consumption of various components in system. It can capture your plots, switch mode , and much more.
   
 [Repository Link](https://github.com/AdityaMino/Mantle_Intel-Unnati-2024)
 
@@ -72,7 +87,7 @@ This project involves designing and implementing a **32-bit processor using Veri
 
 ## 💡 My Experience
 
-- **FOSSEE Summer Fellowship, IIT Bombay **  
+- **FOSSEE Summer Fellowship, IIT Bombay**  
 Integrated subcircuits in eSim during a 2-month fellowship under the FOSSEE organization.  
 
 - **MANTLE © - System Telemetry Tool, Intel**  
@@ -94,9 +109,9 @@ In this project, we implemented a Buck Converter Circuit using Arduino and N-Cha
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/aditya-minocha-154158267)
-- Email: [your-email@example.com](mailto:adityaminoch10@gmail.com)
-- GitHub: [Your GitHub](https://github.com/AdityaMino)
+- LinkedIn: [Aditya Minocha](www.linkedin.com/in/aditya-minocha-154158267)
+- Email: [adityaminocha10@gmail.com](mailto:adityaminocha10@gmail.com)
+- GitHub: [AdityaMino](https://github.com/AdityaMino)
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on exciting projects!
 
