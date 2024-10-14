@@ -79,7 +79,7 @@ This project involves designing and implementing a **32-bit processor using Veri
   
   <!-- IIT Bombay (Official Logo) -->
   <a href="https://www.iitb.ac.in" target="_blank">
-    <img src="https://img.shields.io/badge/IIT%20Bombay-FF7F00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABdCAYAAAB2u2bKAAAAWElEQVRIDbXBAQEAAAABIP1/v8R1CDxQQBGRgLkF1ALbgAcK2g4/AAAAAElFTkSuQmCC" alt="IIT Bombay" height="50" style="margin-right: 30px;" />
+    <img src="https://static.wikia.nocookie.net/logopedia/images/d/d0/IIT_Bombay_color_logo.png/revision/latest?cb=20200330112629" alt="IIT Bombay" height="50" style="margin-right: 30px;" />
   </a>
   
   <!-- eSim -->
