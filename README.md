@@ -71,15 +71,15 @@ This project involves designing and implementing a **32-bit processor using Veri
 [Repository Link](https://github.com/AdityaMino/32bitMIPSProcessor)
 
 
-<p align="center">
+<<p align="center">
   <!-- Intel -->
   <a href="https://www.intel.com" target="_blank">
     <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" style="margin-right: 30px;" />
   </a>
   
-  <!-- IIT Bombay -->
+  <!-- IIT Bombay (Official Logo) -->
   <a href="https://www.iitb.ac.in" target="_blank">
-    <img src="https://img.shields.io/badge/IIT%20Bombay-002C77?style=for-the-badge&logo=iit-bombay&logoColor=white" alt="IIT Bombay" height="50" style="margin-right: 30px;" />
+    <img src="https://img.shields.io/badge/IIT%20Bombay-FF7F00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABdCAYAAAB2u2bKAAAAWElEQVRIDbXBAQEAAAABIP1/v8R1CDxQQBGRgLkF1ALbgAcK2g4/AAAAAElFTkSuQmCC" alt="IIT Bombay" height="50" style="margin-right: 30px;" />
   </a>
   
   <!-- eSim -->
@@ -89,7 +89,7 @@ This project involves designing and implementing a **32-bit processor using Veri
   
   <!-- NIELIT -->
   <a href="https://nielit.gov.in" target="_blank">
-    <img src="https://img.shields.io/badge/NIELIT-005DAA?style=for-the-badge&logo=nielit&logoColor=white" alt="NIELIT" height="50" />
+    <img src="https://img.shields.io/badge/NIELIT-004D00?style=for-the-badge&logo=nielit&logoColor=white" alt="NIELIT" height="50" />
   </a>
 </p>
 
