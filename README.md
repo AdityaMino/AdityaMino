@@ -73,7 +73,7 @@ This project involves designing and implementing a **32-bit processor using Veri
 <p align="center">
   <!-- Intel -->
   <a href="https://www.intel.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Intel-logo.svg" alt="Intel" height="50" style="margin-right: 30px; background-color: #0071C5; padding: 5px; border-radius: 5px;" />
+    <img src="https://en.m.wikipedia.org/wiki/File:Intel_logo_%282006-2020%29.svg" alt="Intel" height="50" style="margin-right: 30px; background-color: #0071C5; padding: 5px; border-radius: 5px;" />
   </a>
   
   <!-- IIT Bombay -->
@@ -121,7 +121,7 @@ In this project, we implemented a Buck Converter Circuit using Arduino and N-Cha
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on exciting projects!
 
-<p align="center">
+<p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aditya-minocha-154158267/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" style="margin-right: 80px;" />
