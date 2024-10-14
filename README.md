@@ -3,6 +3,7 @@
 ![Aditya Minocha ](https://github.com/user-attachments/assets/d781f69b-917b-433a-989f-e6e89a5e8d96)
 
 
+## Introduction 
 
 Greetings ! I'm Aditya Minocha, a Digital Electronics Engineer with a keen interest in **Semiconductor and VLSI Technology**. My areas of expertise include:
 
@@ -15,13 +16,6 @@ Greetings ! I'm Aditya Minocha, a Digital Electronics Engineer with a keen inter
 
 
 ## 🔧 Technologies & Tools
-
-Here are some of the tools and technologies I have experience with:
-
-- **Programming Languages**: Python, Verilog, SQL, MATLAB, C
-- **EDA Tools**: eSim, Vivado, EDA Playground, Magic, LT Spice
-- **Software Tools**: Proteus, Arduino IDE, LabVIEW, Keil Microvision
-- **Operating Systems**: Linux (Ubuntu), Windows
 
 <p align="center">
   <!-- Python -->
@@ -48,17 +42,28 @@ Here are some of the tools and technologies I have experience with:
   <!-- Magic VLSI -->
   <img src="https://img.shields.io/badge/Magic-Violet?style=for-the-badge&logoColor=white" alt="Magic VLSI" height="50" />
   
-## 📚 Current Projects
+Here are some of the tools and technologies I have experience with:
 
-- **System Telemetry GUI**  
-  A Python-based application for real-time system metrics visualization, including CPU, GPU, memory, battery, and NIC stats.  
-  [Repository Link](your-repository-link)
+- **Programming Languages**: Python, Verilog, SQL, MATLAB, C
+- **EDA Tools**: eSim, Vivado, EDA Playground, Magic, LT Spice
+- **Software Tools**: Proteus, Arduino IDE, LabVIEW, Keil Microvision
+- **Operating Systems**: Linux (Ubuntu), Windows
 
-- **Motor Control via Power Converters**  
-  Simulating and controlling motors using power electronics in **MATLAB/Simulink**.  
 
-- **Data Analytics in CPUs and GPUs**  
-  A project exploring trends like Moore's Law, Dennard Scaling, and more using datasets and statistical analysis.
+## 📚 Projects
+
+- **MANTLE © - System Telemetry Tool**  
+  MANTLE © is a comprehensive Power Management tool designed to monitor and display various system metrics and manage telemetry data in real-time. It provides detailed insights into the overall system statistics and Power Consumption of various components in system. It can capture your plots, switch mode , and much more.
+  [Repository Link](https://github.com/AdityaMino/Mantle_Intel-Unnati-2024)
+
+- **Integratined Circuit Design in eSim**  
+  Integrating Analog and Digital Subcircuits in **eSim 2.3** & Simulation of their Application Circuits. This includes Monolithic Timers, Modulators, SRAM Cell IC's by Texas Instruments, NXP Semiconductors, etc. By successfully integrating these models into the library, the project enhances the capabilities of the eSim tool, making it easier for users to incorporate these circuits into their designs, thereby improving the overall efficiency of the design process.
+
+[Repository Link](https://github.com/AdityaMino/eSim)
+
+- **32 bit Processor Implementation using Verilog HDL**  
+  This project involves designing and implementing a **32-bit processor using Verilog Hardware Description Language (HDL)**. The processor is created as part of this NIELIT Internship, as an effort to understand the basics of computer architecture and digital design. The design takes a modular approach, including essential components such as the Arithmetic Logic Unit (ALU), Control Unit, Registers, and Memory Interface and others.  
+[Repository Link](https://github.com/AdityaMino/32bitMIPSProcessor)
 
 ## 🌱 What I'm Learning
 
