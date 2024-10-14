@@ -70,27 +70,26 @@ This project involves designing and implementing a **32-bit processor using Veri
 
 [Repository Link](https://github.com/AdityaMino/32bitMIPSProcessor)
 
-## Institutions & Tools
 
 <p align="center">
   <!-- Intel -->
   <a href="https://www.intel.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Intel-logo.svg" alt="Intel" height="50" style="margin-right: 30px; background-color: #0071C5; padding: 5px; border-radius: 5px;" />
+    <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" style="margin-right: 30px;" />
   </a>
   
   <!-- IIT Bombay -->
   <a href="https://www.iitb.ac.in" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/d4/IIT_Bombay_Logo.svg" alt="IIT Bombay" height="50" style="margin-right: 30px; background-color: #002C77; padding: 5px; border-radius: 5px;" />
+    <img src="https://img.shields.io/badge/IIT%20Bombay-002C77?style=for-the-badge&logo=iit-bombay&logoColor=white" alt="IIT Bombay" height="50" style="margin-right: 30px;" />
   </a>
   
   <!-- eSim -->
   <a href="https://esim.fossee.in" target="_blank">
-    <img src="https://esim.fossee.in/static/esim/images/eSim-logo.png" alt="eSim" height="50" style="margin-right: 30px; background-color: #31A8E0; padding: 5px; border-radius: 5px;" />
+    <img src="https://img.shields.io/badge/eSim-31A8E0?style=for-the-badge&logoColor=white" alt="eSim" height="50" style="margin-right: 30px;" />
   </a>
   
   <!-- NIELIT -->
   <a href="https://nielit.gov.in" target="_blank">
-    <img src="https://nielit.gov.in/sites/default/files/headquarter/logo.png" alt="NIELIT" height="50" style="margin-right: 30px; background-color: #005DAA; padding: 5px; border-radius: 5px;" />
+    <img src="https://img.shields.io/badge/NIELIT-005DAA?style=for-the-badge&logo=nielit&logoColor=white" alt="NIELIT" height="50" />
   </a>
 </p>
 
@@ -124,23 +123,23 @@ In this project, we implemented a Buck Converter Circuit using Arduino and N-Cha
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on exciting projects!
 
-<p >
+<p align="right'>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aditya-minocha-154158267/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" style="margin-right: 80px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="margin-right: 80px;" />
   </a>
 
 
 
   <!-- Gmail -->
   <a href="mailto:adityaminocha10@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" style="margin-right: 80px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" style="margin-right: 80px;" />
   </a>
 
 
 
   <!-- GitHub -->
   <a href="https://github.com/AdityaMino" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="40" />
   </a>
 </p>
