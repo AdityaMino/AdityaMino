@@ -121,7 +121,7 @@ In this project, we implemented a Buck Converter Circuit using Arduino and N-Cha
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on exciting projects!
 
-<p align="left">
+<p >
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aditya-minocha-154158267/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" style="margin-right: 80px;" />
