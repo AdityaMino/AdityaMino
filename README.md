@@ -50,21 +50,21 @@ Here are some of the tools and technologies I have experience with:
     <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" style="margin-right: 30px;" />
   </a>
 
-## 📚 Projects 
+## Projects 📚 
 
-- ### **MANTLE © - System Telemetry Tool**  
+- ### 💻⚡ **MANTLE © - System Telemetry Tool**  
   
 **MANTLE ©** is a comprehensive Power Management tool designed to monitor and display various system metrics and manage telemetry data in real-time. It provides detailed insights into the overall system statistics and Power Consumption of various components in system. It can capture your plots, switch mode , and much more.
   
 [Repository Link](https://github.com/AdityaMino/Mantle_Intel-Unnati-2024)
 
-- ### **Integrated Circuit Design in eSim** 
+- ### 🛠️💾 **Integrated Circuit Design in eSim** 
 
 Integrating Analog and Digital Subcircuits in **eSim 2.3** & Simulation of their Application Circuits. This includes Monolithic Timers, Modulators, SRAM Cell IC's by Texas Instruments, NXP Semiconductors, etc. By successfully integrating these models into the library, the project enhances the capabilities of the eSim tool, making it easier for users to incorporate these circuits into their designs, thereby improving the overall efficiency of the design process.
 
 [Repository Link](https://github.com/AdityaMino/eSim)
 
-- ### **32 bit Processor Implementation using Verilog HDL**
+- ### 🖥📡 **32 bit Processor Implementation using Verilog HDL**
 
 This project involves designing and implementing a **32-bit processor using Verilog Hardware Description Language (HDL)**. The processor is created as part of this NIELIT Internship, as an effort to understand the basics of computer architecture and digital design. The design takes a modular approach, including essential components such as the Arithmetic Logic Unit (ALU), Control Unit, Registers, and Memory Interface and others.
 
@@ -73,27 +73,26 @@ This project involves designing and implementing a **32-bit processor using Veri
 ## My Experiences 💡 
 ![image](https://github.com/user-attachments/assets/8b65c5b7-e733-4609-b04a-1ceb20f0b1e1)
 
-- **FOSSEE Summer Fellowship, IIT Bombay** - 
+- ### **FOSSEE Summer Fellowship, IIT Bombay** - 
 Integrated subcircuits in eSim during a 2-month fellowship under the FOSSEE organization.  
 
-- **MANTLE © - System Telemetry Tool, Intel** -
+- ### **MANTLE © - System Telemetry Tool, Intel** -
 Implementing a Power Manager Telemetry, which provides essential data including Power Consumption and Usage statistics of the CPU, SSD, RAM, NIC etc. using Python and Docker in Linux
 
-- **MIPS 32 Bit Processor Design, NIELIT**- 
+- ### **MIPS 32 Bit Processor Design, NIELIT**- 
 Developed and verified MIPS 32 processors using Verilog on **EDA Playground** and **Vivado**.
 
-- **Smart Walking Cane Project** -
+- ### **Smart Walking Cane Project** -
 The project involved an Ultrasound sensor and Arduino based walking cane,which aids specially abled people to navigate their surroundings, with sound and sensory instructions.
 
-- **Bidirectional Visitor Counter Project** -
+- ### **Bidirectional Visitor Counter Project** -
 The project involved an 8051 Microcontroller, interfaced with 2 Infrared Sensors, to determine the number of visitors entering or exiting the room and display that information on a 16x2 LCD display.
 
-- **DC – DC Buck Converter Project** -
+- ### **DC – DC Buck Converter Project** -
 In this project, we implemented a Buck Converter Circuit using Arduino and N-Channel Power MOSFET (540N) with a maximum current capacity of 33 A. We are going to step down 12V DC to around 5.5-6V. Digital control design is done with use of Arduino Uno microcontroller. 
 
-<!-- You can add certificates, awards, or links to publications here -->
 
-## 📫 Let's Connect!
+## Let's Connect! 📫
 
 - LinkedIn: [Aditya Minocha](https://www.linkedin.com/in/aditya-minocha-154158267/)
 - Email: [adityaminocha10@gmail.com](mailto:adityaminocha10@gmail.com)
