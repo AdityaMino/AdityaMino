@@ -32,7 +32,7 @@ Here are some of the tools and technologies I have experience with:
   <img src="https://img.shields.io/badge/Verilog-76B900?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" height="50" />
   
   <!-- MATLAB -->
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" height="50" />
+  <img src="https://img.shields.io/badge/MATLAB-FF1111?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" height="50" />
   
   <!-- Keil Microvision -->
   <img src="https://img.shields.io/badge/Keil%20Microvision-009A97?style=for-the-badge&logo=arm&logoColor=white" alt="Keil Microvision" height="50" />
@@ -89,9 +89,15 @@ In this project, we implemented a Buck Converter Circuit using Arduino and N-Cha
 
 ## Let's Connect! 📫
 
-- LinkedIn: [Aditya Minocha](https://www.linkedin.com/in/aditya-minocha-154158267/)
-- Email: [adityaminocha10@gmail.com](mailto:adityaminocha10@gmail.com)
-- GitHub: [AdityaMino](https://github.com/AdityaMino)
+- <a href="https://www.linkedin.com/in/aditya-minocha-154158267/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" />
+  </a> LinkedIn: [Aditya Minocha](https://www.linkedin.com/in/aditya-minocha-154158267/)
+- <a href="mailto:adityaminocha10@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" style="margin-right: 80px;" />
+  </a> Email: [adityaminocha10@gmail.com](mailto:adityaminocha10@gmail.com)
+- <a href="https://github.com/AdityaMino" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="30" />
+  </a> GitHub: [AdityaMino](https://github.com/AdityaMino)
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on exciting projects!
 
