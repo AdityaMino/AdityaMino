@@ -12,7 +12,7 @@ Greetings ! I'm Aditya Minocha, a Digital Electronics Engineer with a keen inter
 - **Semiconductor Device Physics**
 - **VLSI Layout & Design**
   
-*"It's hardware that makes a machine fast. It's software that makes a fast machine slow.”- Craig Bruce.* This quote eloquently captures the need for avid hardware engineers to breach computing limits, everyday. I have a strong belief and a passionate interest in Electronics Engineering, hence I plan to grow my technical prowess in this field.
+***"It's hardware that makes a machine fast. It's software that makes a fast machine slow.”- Craig Bruce.*** This quote eloquently captures the need for avid hardware engineers to breach computing limits, everyday. I have a strong belief and a passionate interest in Electronics Engineering, and hence plan to grow my technical prowess in this field.
 
 
 ## Technologies & Tools 🔧
@@ -88,7 +88,7 @@ The project involved an Ultrasound sensor and Arduino based walking cane,which a
 - **Bidirectional Visitor Counter Project** -
 The project involved an 8051 Microcontroller, interfaced with 2 Infrared Sensors, to determine the number of visitors entering or exiting the room and display that information on a 16x2 LCD display.
 
-- **DC – DC Buck Converter** -
+- **DC – DC Buck Converter Project** -
 In this project, we implemented a Buck Converter Circuit using Arduino and N-Channel Power MOSFET (540N) with a maximum current capacity of 33 A. We are going to step down 12V DC to around 5.5-6V. Digital control design is done with use of Arduino Uno microcontroller. 
 
 <!-- You can add certificates, awards, or links to publications here -->
