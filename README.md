@@ -41,10 +41,10 @@ Here are some of the tools and technologies I have experience with:
   <img src="https://img.shields.io/badge/Proteus-31A8E0?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus" height="50" />
   
   <!-- AMD Vivado -->
-  <img src="https://img.shields.io/badge/AMD%20Vivado-007ACC?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Vivado" height="50" />
+  <img src="https://img.shields.io/badge/AMD%20Vivado-A6126A?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Vivado" height="50" />
   
   <!-- LTSpice -->
-  <img src="https://img.shields.io/badge/LTSpice-F00000?style=for-the-badge&logo=analog-devices&logoColor=white" alt="LTSpice" height="50" />
+  <img src="https://img.shields.io/badge/LTSpice-8B0000?style=for-the-badge&logo=analog-devices&logoColor=white" alt="LTSpice" height="50" />
 
   <a href="https://www.intel.com" target="_blank">
     <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" style="margin-right: 30px;" />
@@ -71,7 +71,7 @@ This project involves designing and implementing a **32-bit processor using Veri
 [![Repository](https://img.shields.io/badge/Repository-GitHub-%2300BFFF.svg?style=flat&logo=github&logoColor=white)](https://github.com/AdityaMino/32bitMIPSProcessor)
 
 ## My Experiences 💡 
-![image](https://github.com/user-attachments/assets/8b65c5b7-e733-4609-b04a-1ceb20f0b1e1)
+![WhatsApp Image 2024-10-15 at 19 27 13_06a91a18](https://github.com/user-attachments/assets/1bfe673d-cd6d-4e8e-b9cc-5edb4cb41423)
 
 - ### **FOSSEE Summer Fellowship, IIT Bombay**
 Integrated subcircuits in eSim during a 2-month fellowship under the FOSSEE organization.  
@@ -89,15 +89,9 @@ In this project, we implemented a Buck Converter Circuit using Arduino and N-Cha
 
 ## Let's Connect! 📫
 
-- <a href="https://www.linkedin.com/in/aditya-minocha-154158267/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" />
-  </a> LinkedIn: [Aditya Minocha](https://www.linkedin.com/in/aditya-minocha-154158267/)
-- <a href="mailto:adityaminocha10@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" style="margin-right: 80px;" />
-  </a> Email: [adityaminocha10@gmail.com](mailto:adityaminocha10@gmail.com)
-- <a href="https://github.com/AdityaMino" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="30" />
-  </a> GitHub: [AdityaMino](https://github.com/AdityaMino)
+-  **LinkedIn: [Aditya Minocha](https://www.linkedin.com/in/aditya-minocha-154158267/)**
+-  **Email: [adityaminocha10@gmail.com](mailto:adityaminocha10@gmail.com)**
+-  **GitHub: [AdityaMino](https://github.com/AdityaMino)**
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on exciting projects!
 
