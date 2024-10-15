@@ -29,7 +29,7 @@ Here are some of the tools and technologies I have experience with:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50" />
   
   <!-- Verilog -->
-  <img src="https://img.shields.io/badge/Verilog-76B900?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" height="50" />
+  <img src="https://img.shields.io/badge/Verilog-%23F00000.svg?style=flat&logoColor=white" alt="Verilog" height="50" />
   
   <!-- MATLAB -->
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" height="50" />
@@ -41,7 +41,7 @@ Here are some of the tools and technologies I have experience with:
   <img src="https://img.shields.io/badge/Proteus-31A8E0?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus" height="50" />
   
   <!-- AMD Vivado -->
-  <img src="https://img.shields.io/badge/AMD%20Vivado-007ACC?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Vivado" height="50" />
+  <img src="https://img.shields.io/badge/AMD%20Vivado-%237F00FF.svg?style=flat&logo=amd&logoColor=white" alt="AMD Vivado" height="50" />
   
   <!-- LTSpice -->
   <img src="https://img.shields.io/badge/LTSpice-FC7303?style=for-the-badge&logo=analog-devices&logoColor=white" alt="LTSpice" height="50" />
@@ -75,19 +75,14 @@ This project involves designing and implementing a **32-bit processor using Veri
 
 - ### **FOSSEE Summer Fellowship, IIT Bombay** - 
 Integrated subcircuits in eSim during a 2-month fellowship under the FOSSEE organization.  
-
 - ### **MANTLE © - System Telemetry Tool, Intel** -
 Implementing a Power Manager Telemetry, which provides essential data including Power Consumption and Usage statistics of the CPU, SSD, RAM, NIC etc. using Python and Docker in Linux
-
 - ### **MIPS 32 Bit Processor Design, NIELIT**- 
 Developed and verified MIPS 32 processors using Verilog on **EDA Playground** and **Vivado**.
-
 - ### **Smart Walking Cane Project** -
 The project involved an Ultrasound sensor and Arduino based walking cane,which aids specially abled people to navigate their surroundings, with sound and sensory instructions.
-
 - ### **Bidirectional Visitor Counter Project** -
 The project involved an 8051 Microcontroller, interfaced with 2 Infrared Sensors, to determine the number of visitors entering or exiting the room and display that information on a 16x2 LCD display.
-
 - ### **DC – DC Buck Converter Project** -
 In this project, we implemented a Buck Converter Circuit using Arduino and N-Channel Power MOSFET (540N) with a maximum current capacity of 33 A. We are going to step down 12V DC to around 5.5-6V. Digital control design is done with use of Arduino Uno microcontroller. 
 
