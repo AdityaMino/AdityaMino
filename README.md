@@ -52,19 +52,19 @@ Here are some of the tools and technologies I have experience with:
 
 ## 📚 Projects 
 
-### **MANTLE © - System Telemetry Tool**  
+- ### **MANTLE © - System Telemetry Tool**  
   
 **MANTLE ©** is a comprehensive Power Management tool designed to monitor and display various system metrics and manage telemetry data in real-time. It provides detailed insights into the overall system statistics and Power Consumption of various components in system. It can capture your plots, switch mode , and much more.
   
 [Repository Link](https://github.com/AdityaMino/Mantle_Intel-Unnati-2024)
 
-### **Integrated Circuit Design in eSim** 
+- ### **Integrated Circuit Design in eSim** 
 
 Integrating Analog and Digital Subcircuits in **eSim 2.3** & Simulation of their Application Circuits. This includes Monolithic Timers, Modulators, SRAM Cell IC's by Texas Instruments, NXP Semiconductors, etc. By successfully integrating these models into the library, the project enhances the capabilities of the eSim tool, making it easier for users to incorporate these circuits into their designs, thereby improving the overall efficiency of the design process.
 
 [Repository Link](https://github.com/AdityaMino/eSim)
 
-### **32 bit Processor Implementation using Verilog HDL** 
+- ### **32 bit Processor Implementation using Verilog HDL** 
 
 This project involves designing and implementing a **32-bit processor using Verilog Hardware Description Language (HDL)**. The processor is created as part of this NIELIT Internship, as an effort to understand the basics of computer architecture and digital design. The design takes a modular approach, including essential components such as the Arithmetic Logic Unit (ALU), Control Unit, Registers, and Memory Interface and others.
 
