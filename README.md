@@ -12,7 +12,7 @@ Greetings ! I'm Aditya Minocha, a Digital Electronics Engineer with a keen inter
 - **Semiconductor Device Physics**
 - **VLSI Layout & Design**
   
-***"It's hardware that makes a machine fast. It's software that makes a fast machine slow.”- Craig Bruce.*** This quote eloquently captures the need for avid hardware engineers to breach computing limits, everyday. I have a strong belief and a passionate interest in Electronics Engineering, and hence plan to grow my technical prowess in this field.
+***"It's hardware that makes a machine fast. It's software that makes a fast machine slow.”- Craig Bruce.*** This quote eloquently captures the need for avid hardware engineers to breach computing limits, everyday. I have a strong belief and a passionate interest in Electronics Engineering, and hence plan to grow my technical prowess in the world of VLSI & Electronics.
 
 
 ## Technologies & Tools 🔧
@@ -55,20 +55,20 @@ Here are some of the tools and technologies I have experience with:
 - ### 💻⚡ **MANTLE © - System Telemetry Tool**  
   
 **MANTLE ©** is a comprehensive Power Management tool designed to monitor and display various system metrics and manage telemetry data in real-time. It provides detailed insights into the overall system statistics and Power Consumption of various components in system. It can capture your plots, switch mode , and much more.
-  
-[Repository Link](https://github.com/AdityaMino/Mantle_Intel-Unnati-2024)
+
+[![Repository](https://img.shields.io/badge/Repository-GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/AdityaMino/Mantle_Intel-Unnati-2024) 
 
 - ### 🛠️💾 **Integrated Circuit Design in eSim** 
 
 Integrating Analog and Digital Subcircuits in **eSim 2.3** & Simulation of their Application Circuits. This includes Monolithic Timers, Modulators, SRAM Cell IC's by Texas Instruments, NXP Semiconductors, etc. By successfully integrating these models into the library, the project enhances the capabilities of the eSim tool, making it easier for users to incorporate these circuits into their designs, thereby improving the overall efficiency of the design process.
 
-[Repository Link](https://github.com/AdityaMino/eSim)
+[![Repository](https://img.shields.io/badge/Repository-GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/AdityaMino/eSim)
 
 - ### 🖥📡 **32 bit Processor Implementation using Verilog HDL**
 
 This project involves designing and implementing a **32-bit processor using Verilog Hardware Description Language (HDL)**. The processor is created as part of this NIELIT Internship, as an effort to understand the basics of computer architecture and digital design. The design takes a modular approach, including essential components such as the Arithmetic Logic Unit (ALU), Control Unit, Registers, and Memory Interface and others.
 
-[Repository Link](https://github.com/AdityaMino/32bitMIPSProcessor)
+[![Repository](https://img.shields.io/badge/Repository-GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/AdityaMino/32bitMIPSProcessor)
 
 ## My Experiences 💡 
 ![image](https://github.com/user-attachments/assets/8b65c5b7-e733-4609-b04a-1ceb20f0b1e1)
