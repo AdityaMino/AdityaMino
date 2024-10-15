@@ -26,13 +26,13 @@ Here are some of the tools and technologies I have experience with:
 
 <p align="center">
   <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50" />
+  <img src="https://img.shields.io/badge/Python-37AB76?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50" />
   
   <!-- Verilog -->
-  <img src="https://img.shields.io/badge/Verilog-76B900?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" height="50" />
+  <img src="https://img.shields.io/badge/Verilog-F04444?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" height="50" />
   
   <!-- MATLAB -->
-  <img src="https://img.shields.io/badge/MATLAB-FF1111?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" height="50" />
+  <img src="https://img.shields.io/badge/MATLAB-4A8F29?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" height="50" />
   
   <!-- Keil Microvision -->
   <img src="https://img.shields.io/badge/Keil%20Microvision-009A97?style=for-the-badge&logo=arm&logoColor=white" alt="Keil Microvision" height="50" />
