@@ -74,11 +74,11 @@ This project involves designing and implementing a **32-bit processor using Veri
 ![WhatsApp Image 2024-10-15 at 19 27 13_06a91a18](https://github.com/user-attachments/assets/1bfe673d-cd6d-4e8e-b9cc-5edb4cb41423)
 
 - ### **FOSSEE Summer Fellowship, IIT Bombay**
-Integrated subcircuits in eSim during a 2-month fellowship under the FOSSEE organization.  
+Underwent a 6-week, on-site fellowship program. Integrated various Analog and Digital Subcircuits in eSim2.3, along with simulation of their application circuits.
 - ### **MANTLE © - System Telemetry Tool, Intel**
-Implementing a Power Manager Telemetry, which provides essential data including Power Consumption and Usage statistics of the CPU, SSD, RAM, NIC etc. using Python and Docker in Linux
+Implementing a Power Manager Telemetry, which provides essential data including Power Consumption and Usage statistics of the CPU, SSD, RAM, NIC etc. using Python and Docker in Linux.
 - ### **MIPS 32 Bit Processor Design, NIELIT**
-Developed and verified MIPS 32 processors using Verilog on **EDA Playground** and **Vivado**.
+Developed and verified MIPS 32 processors using Verilog on **EDA Playground** and **Vivado**. This processor was designed during the NIELIT Internship, as an effort to understand the basics of computer architecture and digital design. 
 - ### **Smart Walking Cane Project**
 The project involved an Ultrasound sensor and Arduino based walking cane,which aids specially abled people to navigate their surroundings, with sound and sensory instructions.
 - ### **Bidirectional Visitor Counter Project**
