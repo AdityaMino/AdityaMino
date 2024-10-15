@@ -64,7 +64,7 @@ Integrating Analog and Digital Subcircuits in **eSim 2.3** & Simulation of their
 
 [Repository Link](https://github.com/AdityaMino/eSim)
 
-- ### [**32 bit Processor Implementation using Verilog HDL**] (https://github.com/AdityaMino/32bitMIPSProcessor)
+- ### **32 bit Processor Implementation using Verilog HDL**
 
 This project involves designing and implementing a **32-bit processor using Verilog Hardware Description Language (HDL)**. The processor is created as part of this NIELIT Internship, as an effort to understand the basics of computer architecture and digital design. The design takes a modular approach, including essential components such as the Arithmetic Logic Unit (ALU), Control Unit, Registers, and Memory Interface and others.
 
