@@ -104,20 +104,20 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aditya-minocha-154158267/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" />
   </a>
 
 
 
   <!-- Gmail -->
   <a href="mailto:adityaminocha10@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" style="margin-right: 80px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" style="margin-right: 80px;" />
   </a>
 
 
 
   <!-- GitHub -->
   <a href="https://github.com/AdityaMino" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="30" />
   </a>
 </p>
