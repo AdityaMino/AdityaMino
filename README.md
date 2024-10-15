@@ -32,7 +32,7 @@ Here are some of the tools and technologies I have experience with:
   <img src="https://img.shields.io/badge/Verilog-F04444?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" height="50" />
   
   <!-- MATLAB -->
-  <img src="https://img.shields.io/badge/MATLAB-FF7F0E?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" height="50" />
+  <img src="https://img.shields.io/badge/MATLAB-%23FF7F0E.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" height="50" />
   
   <!-- Keil Microvision -->
   <img src="https://img.shields.io/badge/Keil%20Microvision-009A97?style=for-the-badge&logo=arm&logoColor=white" alt="Keil Microvision" height="50" />
@@ -44,7 +44,7 @@ Here are some of the tools and technologies I have experience with:
   <img src="https://img.shields.io/badge/AMD%20Vivado-007ACC?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Vivado" height="50" />
   
   <!-- LTSpice -->
-  <img src="https://img.shields.io/badge/LTSpice-FC7777?style=for-the-badge&logo=analog-devices&logoColor=white" alt="LTSpice" height="50" />
+  <img src="https://img.shields.io/badge/LTSpice-F00000?style=for-the-badge&logo=analog-devices&logoColor=white" alt="LTSpice" height="50" />
 
   <a href="https://www.intel.com" target="_blank">
     <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" height="50" style="margin-right: 30px;" />
